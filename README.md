@@ -1,7 +1,8 @@
 # Matching an Email Regex Tutorial
 
-Hello World
+Hello World, I am Jon Cerruti, a Full Stack Web Developement Coding Bootcamp student. I have been tasked with developing a tutorial that explains how a specific regular expression, or "regex", functions by breaking down each part of the expression and describing what it does. I hope you enjoy my tutorial and gain some new knowledge along the way. Let's dive in!
 
+![toddler dive](/bug-free-goggles/Develop/images/toddler-dive-child.gif)
 ## Summary
 
 Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
