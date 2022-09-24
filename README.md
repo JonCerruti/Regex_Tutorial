@@ -5,7 +5,14 @@ Hello World, I am Jon Cerruti, a Full Stack Web Developement Coding Bootcamp stu
 ![toddler dive](/bug-free-goggles/Develop/images/toddler-dive-child.gif)
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+A regular expression or regex is a sequence of characters that defines a specific search pattern. In this tutorial I will be breaking down Matching an Email regex. This common regex is commonly used in validating an input.
+
+An example of this regex is shown below: 
+ 
+
+/^(https?:\/\/)?([\ da-z \ .-]+) \ .([a-z \ .]{2,6})([\/\w \ .-]* )*\/?$/
+
+
 
 ## Table of Contents
 
@@ -24,6 +31,8 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ## Regex Components
 
 ### Anchors
+
+
 
 ### Quantifiers
 
